@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_E2E_Add Task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60e567b1-cd8f-47e7-a864-2db9828eb406</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf223f68-8dee-400e-ae57-d0704edb1128</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f71297fa-904f-4f3b-97d5-b838740cbe2d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>455b885f-822e-45a8-8e71-231639bf8288</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0be83c8f-7c03-4bc1-80e8-26485c6c67d4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jam Kerja'</defaultValue>
+      <description></description>
+      <id>bf223f68-8dee-400e-ae57-d0704edb1128</id>
+      <masked>false</masked>
+      <name>tasktitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Kerja Jam 08:00 AM'</defaultValue>
+      <description></description>
+      <id>f71297fa-904f-4f3b-97d5-b838740cbe2d</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>455b885f-822e-45a8-8e71-231639bf8288</id>
+      <masked>false</masked>
+      <name>UseCustomDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Business'</defaultValue>
+      <description></description>
+      <id>0be83c8f-7c03-4bc1-80e8-26485c6c67d4</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+</TestCaseEntity>
